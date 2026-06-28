@@ -1,0 +1,6 @@
+name: "weather-plus"
+displayName: "Weather+"
+author: "moucttt"
+description: "Slightly increases the game's difficulty by adding new weather conditions for Mindustry! Each weather event makes the game more challenging in its own way.\n\n=== Available in the mod ===\n\n 1. Acid downpour:[]\nCorrodes unit armor and applies a damage-over-time effect.\n\n 2. Meteor shower:[]\nHurls actual burning comets onto the map! Strikes random buildings. \n\n 3. Ion storm:[]\n Causes widespread short circuits in power grids. Strikes batteries and factories with clusters of blue chain lightning, inflicting EMP shock on units.\n\n 4. Cryo Storm:[]\nAn extreme polar blizzard. It freezes all coal, steam, and differential generators solid until the storm passes."
+version: "1.0"
+minGameVersion: 158
